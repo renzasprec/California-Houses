@@ -1,3 +1,3 @@
-California House Prices Regression in Python
+California House Prices - Regression (Python)
 
 Predicting House Prices in California using PyTorch.
